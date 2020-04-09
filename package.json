@@ -1,0 +1,29 @@
+{
+  "name": "@hamlet-io/hamlet-schema",
+  "version": "0.1.0",
+  "description": "Exports a JSON Schema for defining, creating and validating a hamlet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamlet-io/hamlet-schema.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hamlet-io/hamlet-schema/issues"
+  },
+  "homepage": "https://hamlet.io",
+  "keywords": [
+    "hamlet",
+    "schema",
+    "json-schema",
+    "hamlet-io",
+    "hamlet.io"
+  ],
+  "author": "rossmurr4y",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  }
+}

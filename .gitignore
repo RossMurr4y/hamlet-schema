@@ -1,0 +1,17 @@
+# IDE
+.vscode
+
+# Modules
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional eslint cache
+.eslintcache
+
+# Temporary folders
+tmp/
+temp/
